@@ -1,4 +1,4 @@
-// when no clicked, make button go to random place
+// when no button is clicked, make the button go to a random place
 
 const no = document.getElementById("no");
 
