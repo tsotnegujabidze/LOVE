@@ -12,3 +12,6 @@ no.addEventListener("click", () => {
     no.style.top = `${y}px`;
 });
 
+yes.addEventListener("click", () => {
+    window.location.href = "index2.html";
+});

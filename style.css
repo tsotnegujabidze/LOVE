@@ -6,7 +6,7 @@ body {
     text-align: center;
 }
 
-.yes {
+#yes {
     background-color: #4CAF50;
     border: none;
     color: white;
@@ -23,11 +23,11 @@ body {
     height: 50px;
 }
 
-.yes:hover {
+#yes:hover {
     background-color: #3e8e41;
 }
 
-.yes:active {
+#yes:active {
     background-color: #4caa4f;
 }
 
