@@ -15,3 +15,4 @@ no.addEventListener("click", () => {
 yes.addEventListener("click", () => {
     window.location.href = "index2.html";
 });
+
