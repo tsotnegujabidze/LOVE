@@ -19,6 +19,16 @@ body {
     cursor: pointer;
     border-radius: 15px;
     text-decoration: none;
+    width: 150px;
+    height: 50px;
+}
+
+.yes:hover {
+    background-color: #3e8e41;
+}
+
+.yes:active {
+    background-color: #4caa4f;
 }
 
 #no {
@@ -33,6 +43,16 @@ body {
     margin: 10px;
     cursor: pointer;
     border-radius: 15px;
+    width: 150px;
+    height: 50px;
+}
+
+#no:hover {
+    background-color: #da190b;
+}
+
+#no:active {
+    background-color: #f01e0f;
 }
 
 a {
